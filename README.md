@@ -15,3 +15,30 @@ Add this to your dependencies:
     <version>1.0.0</version>
 </dependency>
 ```
+
+## call the endpoints
+
+Initialize a client this way:
+
+```java
+NicobotPerstitence client = NicobotPersistence.create(apiUri, apiKey);
+```
+
+`apiUri` being the url where the api is exposed, and  
+`apiKey` being the key used to call endpoints.
+
+You can then use the client with the following methods:
+
+```java
+client.messageService().readMessages(...);
+```
+
+The client exposes 3 methods (currently)
+
+```java
+client.messageService()
+client.hgtService()
+client.gommetteService()
+```
+
+each method returns an interface. Check them to know which endpoint is implemented.
