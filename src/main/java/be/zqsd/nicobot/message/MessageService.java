@@ -1,4 +1,4 @@
-package be.zqsd.message;
+package be.zqsd.nicobot.message;
 
 import retrofit2.Call;
 import retrofit2.http.Body;

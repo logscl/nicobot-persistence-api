@@ -1,4 +1,4 @@
-package be.zqsd.gommette;
+package be.zqsd.nicobot.gommette;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

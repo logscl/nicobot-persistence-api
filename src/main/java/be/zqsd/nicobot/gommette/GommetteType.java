@@ -1,4 +1,4 @@
-package be.zqsd.gommette;
+package be.zqsd.nicobot.gommette;
 
 public enum GommetteType {
     RED,

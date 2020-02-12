@@ -1,4 +1,4 @@
-package be.zqsd.hgt;
+package be.zqsd.nicobot.hgt;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

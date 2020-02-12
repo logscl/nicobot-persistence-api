@@ -1,4 +1,4 @@
-package be.zqsd.client;
+package be.zqsd.nicobot.client;
 
 import okhttp3.HttpUrl;
 import okhttp3.Interceptor;

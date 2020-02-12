@@ -10,9 +10,9 @@ Add this to your dependencies:
 
 ```xml
 <dependency>
-    <groupId>be.zqsd</groupId>
+    <groupId>be.zqsd.nicobot</groupId>
     <artifactId>nicobot-persistence-api</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
 </dependency>
 ```
 

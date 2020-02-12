@@ -1,4 +1,4 @@
-package be.zqsd.message;
+package be.zqsd.nicobot.message;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
