@@ -1,8 +1,8 @@
-package be.zqsd.nicobot.client;
+package wtf.logs.nicobot.client;
 
-import be.zqsd.nicobot.gommette.GommetteService;
-import be.zqsd.nicobot.hgt.HgtService;
-import be.zqsd.nicobot.message.MessageService;
+import wtf.logs.nicobot.gommette.GommetteService;
+import wtf.logs.nicobot.hgt.HgtService;
+import wtf.logs.nicobot.message.MessageService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import okhttp3.OkHttpClient;

@@ -1,4 +1,4 @@
-package be.zqsd.nicobot.hgt;
+package wtf.logs.nicobot.hgt;
 
 import retrofit2.Call;
 import retrofit2.http.Body;

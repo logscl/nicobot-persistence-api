@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>be.zqsd.nicobot</groupId>
+    <groupId>wtf.logs.nicobot</groupId>
     <artifactId>nicobot-persistence-api</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -65,12 +65,4 @@
             </plugin>
         </plugins>
     </build>
-
-    <distributionManagement>
-        <repository>
-            <id>bintray-logscl-nicobot</id>
-            <name>logscl-nicobot</name>
-            <url>https://api.bintray.com/maven/logscl/nicobot/nicobot-persistence-api/;publish=1</url>
-        </repository>
-    </distributionManagement>
 </project>

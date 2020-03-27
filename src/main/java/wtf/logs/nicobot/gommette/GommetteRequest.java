@@ -1,4 +1,4 @@
-package be.zqsd.nicobot.gommette;
+package wtf.logs.nicobot.gommette;
 
 public class GommetteRequest {
 
