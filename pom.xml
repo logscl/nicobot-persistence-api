@@ -8,6 +8,26 @@
     <artifactId>nicobot-persistence-api</artifactId>
     <version>1.0.3</version>
     <packaging>jar</packaging>
+    <name>Nicobot persistence API</name>
+    <description>Java client used to communicate with Nicobot-Persistence</description>
+    <url>https://github.com/logscl/nicobot-persistence-api</url>
+    <developers>
+        <developer>
+            <id>logscl</id>
+            <name>Logan C.</name>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>The MIT License (MIT)</name>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/logscl/nicobot-persistence-api/tree/master</url>
+        <tag>master</tag>
+    </scm>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
